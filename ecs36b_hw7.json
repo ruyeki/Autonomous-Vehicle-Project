@@ -1,0 +1,15 @@
+[
+    {
+        "name": "move",
+        "params": {
+            "action": "move object",
+            "class_id": "class type",
+            "object_id": "object id",
+            "json_object": {}
+        },
+        "returns": {
+            "action": "feedback",
+            "feedback": "jsonstr"
+        }
+    }
+]
